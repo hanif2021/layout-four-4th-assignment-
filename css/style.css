@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.header h1{
+    height: 150px;
+    background-color: bisque;
+    text-align: center;
+}
+.nav h1{
+    height: 150px;
+    background-color: blue;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    width: 70%;
+    height: 500px;
+    float: left;
+    background-color: chocolate;
+    
+}
+.top h1{
+    height: 50%;
+    background-color: gold;
+    text-align: center; 
+}
+.bottom h1{
+    height: 50%;
+    background-color: rgb(29, 153, 29);
+    text-align: center;
+}
+.right_content{
+width: 30%;
+height: 500px;
+float: right;
+background-color: cyan;
+text-align: center;
+}
+.footer{
+    height: 150px;
+    background-color: darkseagreen;
+    text-align: center;
+}
